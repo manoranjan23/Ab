@@ -15,7 +15,7 @@ from AnonXMusic.utils.database import is_on_off
 from AnonXMusic.utils.formatters import time_to_seconds
 
 
-def cookie_text_file():
+def cookie_txt_file():
     folder_path = f"{os.getcwd()}/cookies"
     txt_files = glob.glob(os.path.join(folder_path, "*.txt"))
     if not txt_files:
