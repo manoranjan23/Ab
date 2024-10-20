@@ -161,7 +161,7 @@ str_2 : "➻ ᴠᴀʟɪᴅ sᴛʀᴇᴀᴍ ᴠᴇʀɪғɪᴇᴅ.\n\nᴘʀᴏᴄ�
 str_3 : "ғᴀɪʟᴇᴅ ᴛᴏ sᴛʀᴇᴀᴍ ʏᴏᴜᴛᴜʙᴇ ʟɪᴠᴇ sᴛʀᴇᴀᴍ, ɴᴏ ʟɪᴠᴇ ꜰᴏʀᴍᴀᴛ ꜰᴏᴜɴᴅ."
 
 ping_1 : "{0} ɪs ᴘɪɴɢɪɴɢ..."
-ping_2 : "**Pong**: `{0}ms`\nI am alive 🖤!\n\n<b><u>{1} System Stats:</u></b>\n\n✨ Uptime: {2}\n☁️ RAM: {3}\n❄️ CPU: {4}\n🔮 Disk: {5}\n\n<b>Made</b> [Meowsteric bot](https://t.me/kittyxmusic_bot) <b>with love by</b> [ᴅᴇᴠᴇʟᴏᴘᴇʀs](https://t.me/about_ur_moonshining/5) ✨🥀"
+ping_2 : "**Pong**: `{0}ms`\nI am alive 🖤!\n\n<b><u>{1} System Stats:</u></b>\n\n✨ Uptime: {2}\n☁️ RAM: {3}\n❄️ CPU: {4}\n🔮 Disk: {5}\n\nMade [Meowsteric bot](https://t.me/kittyxmusic_bot) with love by [ᴅᴇᴠᴇʟᴏᴘᴇʀs](https://t.me/about_ur_moonshining/5) ✨🥀"
 
 queue_1 : "» ғᴇᴛᴄʜɪɴɢ ǫᴜᴇᴜᴇ...\n\nᴘʟᴇᴀsᴇ ᴡᴀɪᴛ..."
 queue_2 : "» ǫᴜᴇᴜᴇ ᴇᴍᴘᴛʏ."
