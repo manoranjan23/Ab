@@ -3,7 +3,7 @@ import requests
 from pyrogram import filters
 
 from AnonXMusic import app
-from config import LOG_GROUP_ID
+from config import LOGGER_ID
 
 
 @app.on_message(filters.command(["ig", "instagram", "reel"]))
