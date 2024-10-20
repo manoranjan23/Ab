@@ -1,6 +1,7 @@
 aiofiles
 SafoneAPI
 aiohttp
+TheApi
 asyncio
 beautifulsoup4
 dnspython
